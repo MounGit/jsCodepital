@@ -17,7 +17,7 @@ export {traitIndent, traitUnsave, trait404, traitAzma, traitSynt};
 
 
 attente.lieu.push(marcus, optimus, sangoku, darthVader, semicolon);
-// console.log(attente.lieu);
+
 console.log(`Dans la ${attente.nom} il y a ${attente.lieu.length} personne(s)`);
 
 doc.patientIn(marcus, attente);
